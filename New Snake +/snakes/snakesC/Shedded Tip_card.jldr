@@ -1,0 +1,13 @@
+{
+  "name": "Shedded TipN",
+  "displayedName": "Shedded Tip",
+  "description": "a snake that evolved to shed its tail and flee",
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 0,
+  "baseHealth": 1,
+  "bloodCost": 0,
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Shedded Tip_art.png"
+}

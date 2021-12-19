@@ -1,0 +1,18 @@
+{
+  "name": "CobraN",
+  "displayedName": "Cobra",
+  "description": "a snake that evolved to hunt",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "evolution": {
+    "name": "King CobraN",
+    "turnsToEvolve": 1
+  },
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Cobra_art.png"
+}

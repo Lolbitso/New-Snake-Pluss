@@ -1,0 +1,15 @@
+{
+  "name": "Three SnakeN",
+  "displayedName": "Three Headed Snake",
+  "description": "a snake that mutated into no blind spot , strong",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 2,
+  "abilities": ["TriStrike"],
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "Three Snake_art.png"
+}

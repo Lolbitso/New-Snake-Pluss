@@ -1,0 +1,18 @@
+{
+  "name": "SnakeN",
+  "displayedName": "Snake",
+  "description": "a snake in its more, basic form",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 2,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "evolution": {
+    "name": "CobraN",
+    "turnsToEvolve": 1
+  },
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Snake_art.png"
+}

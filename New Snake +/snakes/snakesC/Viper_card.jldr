@@ -1,0 +1,15 @@
+{
+  "name": "ViperN",
+  "displayedName": "Viper",
+  "description": "a snake but quite a bit more agresive",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "abilities": ["Deathtouch"],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Viper_art.png"
+}

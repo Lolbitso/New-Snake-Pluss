@@ -1,0 +1,19 @@
+{
+  "name": "Two SnakeN",
+  "displayedName": "Two Headed Snake",
+  "description": "a snake that mutated into a blind spot, weak",
+  "metaCategories": [ "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 1,
+  "abilities": ["SplitStrike"],
+  "evolution": {
+    "name": "Three SnakeN",
+    "turnsToEvolve": 1
+  },
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Two Snake_art.png"
+}

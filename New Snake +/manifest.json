@@ -1,0 +1,9 @@
+{
+    "name": "New Snake +",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/Lolbitso/New-Snake-Pluss.git",
+    "description": "snakes. ONLY TWO CARDS? lets change that, how about we add nine card to that!",
+    "dependencies": [
+        "MADH95Mods-JSONCardLoader-1.7.1"
+    ]
+}

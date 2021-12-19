@@ -1,0 +1,15 @@
+{
+  "name": "Not A SnakeN",
+  "displayedName": "Not A Snake",
+  "description": "a snake?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bonesCost": 4,
+  "abilities": ["DrawCopy"],
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Not A Snake_art.png"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "ShedderN",
+  "displayedName": "Shedding Snake",
+  "description": "a snake that evolved to shed its tail and flee",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 2,
+  "bloodCost": 2,
+  "abilities": ["TailOnHit"],
+	"tail": {
+		"name": "Shedded TailN",
+		"tailLostPortrait": "Shedder_art.png"
+	},
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Shedder2_art.png"
+}

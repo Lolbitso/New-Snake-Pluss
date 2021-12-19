@@ -1,0 +1,19 @@
+{
+  "name": "SnekN",
+  "displayedName": "Snek",
+  "description": "a snek?",
+  "metaCategories": [ "ChoiceNode", "TraderOffer" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 1,
+  "baseHealth": 1,
+  "bloodCost": 1,
+  "abilities": ["Evolve"],
+  "evolution": {
+    "name": "SnakeN",
+    "turnsToEvolve": 1
+  },
+  "appearanceBehaviour": [ "SexyGoat" ],
+  "texture": "Snek_art.png"
+}

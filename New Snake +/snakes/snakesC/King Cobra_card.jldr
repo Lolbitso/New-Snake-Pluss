@@ -1,0 +1,14 @@
+{
+  "name": "King CobraN",
+  "displayedName": "King Cobra",
+  "description": "a cobra that has hunted enough to become its true form",
+  "metaCategories": [ "Rare" ],
+  "cardComplexity": "Simple",
+  "tribe": ["Reptile"],
+  "temple": "Nature",
+  "baseAttack": 3,
+  "baseHealth": 3,
+  "bloodCost": 2,
+  "appearanceBehaviour": [ "RareCardBackground" ],
+  "texture": "King Cobra_art.png"
+}
